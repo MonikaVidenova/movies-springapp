@@ -1,0 +1,6 @@
+net\javaguides\springboot\service\MovieServiceImpl.class
+net\javaguides\springboot\service\MovieService.class
+net\javaguides\springboot\controller\MovieController.class
+net\javaguides\springboot\repository\MovieRepository.class
+net\javaguides\springboot\SpringbootThymeleafCrudWebAppApplication.class
+net\javaguides\springboot\model\Movie.class
